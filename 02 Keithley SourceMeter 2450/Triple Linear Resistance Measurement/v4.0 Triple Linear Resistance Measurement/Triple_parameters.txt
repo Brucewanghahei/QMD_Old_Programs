@@ -1,0 +1,10 @@
+Sweep Type,Sweep Voltage
+Probe Type,2-Point Probe
+Start Voltage,0
+First Peak Voltage,-50
+Second Peak Voltage,50
+End Voltage,0
+Measure Steps,3
+Time Step,0.5
+Step Type,Software Stepping
+Run Name,R32-3

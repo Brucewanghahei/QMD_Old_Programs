@@ -1,0 +1,9 @@
+Sweep Type,Sweep Voltage
+Probe Type,2-Point Probe
+Start Voltage,0
+Top Voltage,500
+End Voltage,0
+Measure Steps,15
+Time Step,0.5
+Step Type,Software Stepping
+Run Name,R1
